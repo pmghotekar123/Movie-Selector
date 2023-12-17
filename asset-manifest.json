@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Movie-Selector/static/css/main.deb4803d.css",
+    "main.js": "/Movie-Selector/static/js/main.246a6e6d.js",
+    "index.html": "/Movie-Selector/index.html",
+    "main.deb4803d.css.map": "/Movie-Selector/static/css/main.deb4803d.css.map",
+    "main.246a6e6d.js.map": "/Movie-Selector/static/js/main.246a6e6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.deb4803d.css",
+    "static/js/main.246a6e6d.js"
+  ]
+}
